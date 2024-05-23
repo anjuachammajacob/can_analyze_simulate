@@ -1,2 +1,4 @@
 - parse dbc file
+- display pdus sorted as per sender node
+- simulate sender node.
 - parse mf4 file
